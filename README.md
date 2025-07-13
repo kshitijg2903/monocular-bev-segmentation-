@@ -1,0 +1,1 @@
+This repository contains the implementation of an end-to-end Bird’s Eye View (BEV) semantic segmentation and real-time multi-object tracking pipeline, developed as part of my internship at Deevia (Deep Vision Analytics) Software Pvt. Ltd.. The pipeline is designed to enable HD-map generation and robust vehicle tracking from monocular RGB input for autonomous driving systems.
